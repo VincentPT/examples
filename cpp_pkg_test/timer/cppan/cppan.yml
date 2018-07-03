@@ -1,0 +1,4 @@
+# any latest stable (non-branch) version
+dependencies:
+  - pvt.cppan.demo.poco
+ 
